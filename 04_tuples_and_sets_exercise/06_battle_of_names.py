@@ -8,6 +8,10 @@ def name_func(name_list):
         for char in name:
             total += ord(char)
         total //= counter
+    #the same thing for row 5-10
+    #for row in range(1, int(input()) + 1):
+        #ascii_sum_of_name = sum(ord(l) for l in input()) // row
+
         if total % 2 == 0:
             the_even_set.add(total)
         else:
