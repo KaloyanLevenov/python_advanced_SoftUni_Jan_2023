@@ -18,10 +18,10 @@ Online judge system - https://judge.softuni.org/
 
 ## Python:
 
-- List as tacks and queues - Lab
-- List as tacks and queues - Exercise
-- Tuples and sets - Lab
-- Tuples and sets - Exercise
+- [List as tacks and queues - Lab](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/01_lists_as_stacks_and_queues_lab)
+- [List as tacks and queues - Exercise](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/02_lists_as_stacks_and_queues_exercise)
+- [Tuples and sets - Lab](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/03_tuples_and_sets_lab)
+- [Tuples and sets - Exercise](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/04_tuples_and_sets_exercise)
 
 ## Additional resources
 
