@@ -22,7 +22,8 @@ Online judge system - https://judge.softuni.org/
 - [List as tacks and queues - Exercise](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/02_lists_as_stacks_and_queues_exercise)
 - [Tuples and sets - Lab](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/03_tuples_and_sets_lab)
 - [Tuples and sets - Exercise](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/04_tuples_and_sets_exercise)
-
+- [Stacks, queues, tuples and sets - Exercise](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/05_stacks_queues_tuples_and_sets_exercise)
+- Stacks, queues, tuples and sets - Exam preparation 
 ## Additional resources
 
 - [Course page - Python advanced - January 2023](https://softuni.bg/trainings/3963/python-advanced-january-2023)
