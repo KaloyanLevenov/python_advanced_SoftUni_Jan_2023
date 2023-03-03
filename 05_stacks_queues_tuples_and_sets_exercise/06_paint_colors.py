@@ -10,6 +10,7 @@ def check_colors(colors_made):
 
     for color in colors_made.copy():
         if color in color_register.keys() and not color_register[color](colors_made):
+            # if we do not have the required main colors for the secondary we delete the color from the list
             colors_made.remove(color)
 
     return colors_made
@@ -35,7 +36,6 @@ while single_line_of_strings:
         middle_index = floor(len(single_line_of_strings) / 2)
         single_line_of_strings.insert(middle_index, first_substring) if first_substring else None
         single_line_of_strings.insert(middle_index, last_substring) if last_substring else None
-
 
 color_list = check_colors(color_list)
 print(color_list)
