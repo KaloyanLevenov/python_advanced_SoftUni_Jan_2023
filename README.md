@@ -24,13 +24,13 @@ Online judge system - https://judge.softuni.org/
 - [Tuples and sets - Exercise](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/04_tuples_and_sets_exercise)
 - [Stacks, queues, tuples and sets - Exercise](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/05_stacks_queues_tuples_and_sets_exercise)
 - [Stacks, queues, tuples and sets - Exam preparation ](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/06_stacks_queues_tuples_and_sets_exam_preparation)
-- Multidimensional lists - Lab
-- Multidimensional lists - Exercise
-- Multidimensional lists - Exercise (vol.2)
-- Functions advanced - Lab
-- Functions advanced - Exercise
-- Error handling - Lab
-- Error handling - Exercise
+- [Multidimensional lists - Lab](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/07_multidimensional_lists_lab)
+- [Multidimensional lists - Exercise](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/08_multidimensional_lists_exercise)
+- [Multidimensional lists - Exercise (vol.2)](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/09_multidimentional_lists_exercise_vol_2)
+- [Functions advanced - Lab](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/10_functions_advanced_lab)
+- [Functions advanced - Exercise](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/11_functions_advanced_exercise)
+- [Error handling - Lab](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/12_error_handling_lab)
+- [Error handling - Exercise](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/13_error_handling_exercise)
 
 ## Additional resources
 
