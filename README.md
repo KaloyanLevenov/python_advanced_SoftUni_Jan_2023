@@ -27,11 +27,19 @@ Online judge system - https://judge.softuni.org/
 - [Multidimensional lists - Lab](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/07_multidimensional_lists_lab)
 - [Multidimensional lists - Exercise](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/08_multidimensional_lists_exercise)
 - [Multidimensional lists - Exercise (vol.2)](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/09_multidimentional_lists_exercise_vol_2)
+- [Multidimensional lists - Exam preparation](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/10_multidemensional_lists_exam_preparation)
 - [Functions advanced - Lab](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/10_functions_advanced_lab)
 - [Functions advanced - Exercise](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/11_functions_advanced_exercise)
+- [Functions advanced - Exam preparation](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/13_function_advanced_exam_preparation)
 - [Error handling - Lab](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/12_error_handling_lab)
 - [Error handling - Exercise](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/13_error_handling_exercise)
-
+- [File handling - Lab](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/16_file_handling_lab)
+- [File handling - Exercise](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/17_file_handling_exercise)
+- [Workshop - Lab](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/18_workshop_lab)
+- [Workshop - Exercise](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/19_workshop_exercise)
+- [Modules - Lab](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/20_modules_lab)
+- [Modules - Exercise](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/21_modules_exercise)
+  
 ## Additional resources
 
 - [Course page - Python advanced - January 2023](https://softuni.bg/trainings/3963/python-advanced-january-2023)
