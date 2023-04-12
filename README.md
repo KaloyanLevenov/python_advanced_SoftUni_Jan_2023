@@ -39,6 +39,7 @@ Online judge system - https://judge.softuni.org/
 - [Workshop - Exercise](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/19_workshop_exercise)
 - [Modules - Lab](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/20_modules_lab)
 - [Modules - Exercise](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/21_modules_exercise)
+- [Python Advanced Certificate](https://github.com/KaloyanLevenov/python_advanced_SoftUni_Jan_2023/tree/main/22_python_advanced_certificate)
   
 ## Additional resources
 
