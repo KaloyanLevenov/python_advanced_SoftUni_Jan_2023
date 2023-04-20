@@ -1,8 +1,8 @@
 # SoftUni_Python_Advanced_January_2023
 Repository for tasks and problems which Python Advanced Class in SoftUni Jan-2023 is dealing with
 
-Lecturer of course - [Mario Zahariev](https://github.com/zahariev-webbersof)
-                   - [Diyan Kalaydzhiev](https://github.com/DiyanKalaydzhiev23)
+Lecturers of course - [Mario Zahariev](https://github.com/zahariev-webbersof) and  [Diyan Kalaydzhiev](https://github.com/DiyanKalaydzhiev23)
+
 
 Completed courses:
 - [Programming Basics With Python July 2022](https://github.com/KaloyanLevenov/programming_fundamentals_python_september_2022/tree/main/001_programming_basics_with_python_july_2022)
